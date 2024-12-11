@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Bienvenido al Club de Novela Negra 📚
 
 ¡Bienvenido al Club de Novela Juvenil! Este es un espacio para todos los jóvenes y jóvenes de corazón que disfrutan de historias llenas de emoción, aventuras y personajes con los que pueden identificarse. El objetivo es disfrutar y analizar juntos algunas de las mejores obras de la literatura .
@@ -25,7 +24,3 @@ Cada mes, elegimos una novela juvenil para leer. Después de la lectura, organiz
 - [Discord](https://discord.com/)
 
 ---
-
-=======
-Bienvenido al Club de 
->>>>>>> d21b1d8eccacd653628667662ec8ed66497e3f70
