@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ¡Bienvenido al apartado de los Clubs de Lectura!
 
 Hola y bienvenido al apartado de los *Clubs de Lectura* de nuestro repositorio. Aquí encontrarás todos los clubes disponibles actualmente, cada uno dedicado a un género literario diferente. ¡Si eres un amante de los libros, este es el lugar para ti!
@@ -48,3 +49,10 @@ Si te gusta la lectura y quieres compartir tu pasión con otros, ¡estás en el 
 
 ---
 _Recuerda: la lectura no es solo una actividad solitaria, ¡es una oportunidad para conectarnos y compartir experiencias!_
+=======
+Bienvenido a nuestros club de lectura
+
+Aqui encontraras diferentes club a los que te puedes unir y participar con otros miembros apasionados por la literatura
+
+
+>>>>>>> d21b1d8eccacd653628667662ec8ed66497e3f70

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bienvenido al Club de Novela Negra 📚
 
 ¡Bienvenido al Club de Novela Negra! Este es un espacio para todos los amantes del miedo, lo macabro y lo sobrenatural. El objetivo es disfrutar y analizar juntos algunas de las mejores obras de la literatura .
@@ -26,3 +27,6 @@ Cada mes, elegimos una novela de terror. Después de la lectura, organizamos un 
 
 ---
 
+=======
+Bienvenido al Club de 
+>>>>>>> d21b1d8eccacd653628667662ec8ed66497e3f70
