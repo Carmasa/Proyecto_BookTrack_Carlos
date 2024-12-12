@@ -31,6 +31,9 @@ Bienvenido/a a tu perfil de **BookTracker**. Aquí podrás agregar tus libros, c
 ### 1. **Títde sangre y cenizas** - Autor: [ Jennifer L. Armentrout]
 - **Género**: [Fantasia, aventura]
 - **Año de Publicación**: [2021]
+### 1. **Títde sangre y cenizas** - Autor: [ Jennifer L. Armentrout]
+- **Género**: [Fantasia, aventura]
+- **Año de Publicación**: [2021]
 - **Estado**: Pendiente
 - **Reseña**:  
   [Escribe aquí por qué decidiste agregar este libro a tu lista pendiente.]
