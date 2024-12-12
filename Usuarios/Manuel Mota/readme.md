@@ -8,7 +8,7 @@ Bienvenido/a a tu perfil de **BookTracker**. Aquí podrás agregar tus libros, c
 
 ### 1. **La chica gris** - Autor: [Antonio Runa]
 - **Género**: [Terror]
-- **Año de Publicación**: [22022]
+- **Año de Publicación**: [2222]
 - **Estado**: Leído
 - **Reseña**:  
   [Una novela monstruosa de sucesos paranormales. Los muertos no nos quieren como nosotros los queremos a ellos.]
@@ -19,7 +19,7 @@ Bienvenido/a a tu perfil de **BookTracker**. Aquí podrás agregar tus libros, c
 
 ### 1. **El niño que perdio la guerra** - Autor: [ Julia Navarro]
 - **Género**: [Ficción]
-- **Año de Publicación**: [20024]
+- **Año de Publicación**: [2024]
 - **Estado**: Leyendo
 - **Reseña**:  
   [Escribe aquí tus pensamientos mientras lees este libro.]
@@ -29,7 +29,10 @@ Bienvenido/a a tu perfil de **BookTracker**. Aquí podrás agregar tus libros, c
 ## 📚 Libros Pendientes
 
 ### 1. **Títde sangre y cenizas** - Autor: [ Jennifer L. Armentrout]
-- **Género**: [Fantasia aventura]
+- **Género**: [Fantasia, aventura]
+- **Año de Publicación**: [2021]
+### 1. **Títde sangre y cenizas** - Autor: [ Jennifer L. Armentrout]
+- **Género**: [Fantasia, aventura]
 - **Año de Publicación**: [2021]
 - **Estado**: Pendiente
 - **Reseña**:  
