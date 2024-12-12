@@ -1,4 +1,4 @@
-# Mis Libros - [Nombre del Usuario]
+# Mis Libros - Zamarra
 
 Bienvenido/a a tu perfil de **BookTracker**. Aquí podrás agregar tus libros, clasificarlos según su estado y escribir reseñas sobre ellos. Asegúrate de mantener tu lista actualizada para compartir tu progreso con otros usuarios y disfrutar de la experiencia colaborativa.
 
@@ -6,34 +6,34 @@ Bienvenido/a a tu perfil de **BookTracker**. Aquí podrás agregar tus libros, c
 
 ## 📚 Libros Leídos
 
-### 1. **Título del Libro** - Autor: [Nombre del Autor]
-- **Género**: [Género]
-- **Año de Publicación**: [Año]
+### 1. **Los juegos del hambre** - Autor: [Suzanne Collins]
+- **Género**: [ Novela, Ciencia ficción]
+- **Año de Publicación**: [2008]
 - **Estado**: Leído
 - **Reseña**:  
-  [Escribe aquí tu reseña personal sobre el libro. ¿Qué te gustó? ¿Qué no te gustó? ¿Lo recomendarías?]
+  [Tiene un trasfondo y un mensaje bastante llamativo. La trama es ágil y atrapante, los personajes están bien planteados y es fácil empatizar con ellos]
 
 ---
 
 ## 📖 Libros en Lectura
 
-### 1. **Título del Libro** - Autor: [Nombre del Autor]
-- **Género**: [Género]
-- **Año de Publicación**: [Año]
+### 1. **Alas de sangre** - Autor: [Rebecca Yarros]
+- **Género**: [Fantasia]
+- **Año de Publicación**: [2023]
 - **Estado**: Leyendo
 - **Reseña**:  
-  [Escribe aquí tus pensamientos mientras lees este libro. ¿Te está gustando hasta ahora? ¿Qué esperas del final?]
+  [Desde la primera página, Alas de Sangre me recibió con una escritura que me atrapó totalmente. Se hace resaltar mucho las emociones del personaje protagónico.]
 
 ---
 
 ## 📚 Libros Pendientes
 
-### 1. **Título del Libro** - Autor: [Nombre del Autor]
-- **Género**: [Género]
-- **Año de Publicación**: [Año]
+### 1. **Si te gusta la oscuridad** - Autor: [Stephen King]
+- **Género**: [Misterio]
+- **Año de Publicación**: [2024]
 - **Estado**: Pendiente
 - **Reseña**:  
-  [Escribe aquí por qué decidiste agregar este libro a tu lista pendiente. ¿Qué te atrae de él? ¿Lo tienes en espera por alguna razón específica?]
+  [Último libro de Stephen King]
 
 
 ---
